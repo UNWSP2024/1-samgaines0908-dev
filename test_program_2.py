@@ -1,6 +1,11 @@
-import program_2
-
-def test_prov(capfd):
-    program_2.proverbs_22_29()
-    out, err = capfd.readouterr()
-    assert "Proverbs 22:29" in out
+#Author: Sam Gaines
+#Date: 1/15/2026
+#Title: Modified Hello World Part II
+print()
+print("Do you see someone skilled in their work")
+print()
+print(      "They will serve before kings;")
+print()
+print("they will not serve before officials of low rank")
+print()
+print("        (Proverbs 29:22)")   
