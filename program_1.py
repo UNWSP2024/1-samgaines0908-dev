@@ -1,8 +1,8 @@
 #Author:Sam Gaines
 #Date:1/15/2026
-#Title:Modified Hello World Program
+#Title:Modified Hello World Part I
 
-def Hello_World():
+def hello_world():
  print("Hello World")    
  
- Hello_World()
+ hello_world()
